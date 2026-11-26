@@ -1,0 +1,25 @@
+:root {
+  --bg: #05060f;
+  --surface: rgba(20, 25, 53, 0.72);
+  --surface-solid: #141932;
+  --border: rgba(255, 255, 255, 0.12);
+  --text: #f5f6ff;
+  --muted: #aab1d2;
+  --accent: #8b6cff;
+  --accent-soft: rgba(139, 108, 255, 0.16);
+  --mars: #ff7a4d;
+  --mars-soft: rgba(255, 122, 77, 0.15);
+  --radius: 20px;
+  --radius-sm: 12px;
+  --s1: 0.5rem;
+  --s2: 0.75rem;
+  --s3: 1rem;
+  --s4: 1.5rem;
+  --s5: 2rem;
+  --s6: 3rem;
+  --s7: 5rem;
+  --shadow: 0 24px 60px rgba(0, 0, 0, 0.38);
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --max-width: 1180px;
+}
